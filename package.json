@@ -1,0 +1,32 @@
+{
+  "name": "workspace",
+  "version": "0.1.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoyoyohamapi/workspace.git"
+  },
+  "author": "yoyoyohamapi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoyoyohamapi/workspace/issues"
+  },
+  "homepage": "https://github.com/yoyoyohamapi/workspace#readme",
+  "dependencies": {
+    "@reobservable/core": "^0.1.26",
+    "react": "^16.6.3",
+    "react-beautiful-dnd": "^10.0.2",
+    "react-dom": "^16.6.3",
+    "react-resizable": "^1.7.5",
+    "rxjs": "^6.3.3",
+    "rxjs-hooks": "^0.2.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "typescript": "^3.2.2"
+  }
+}
